@@ -38,7 +38,7 @@ else:
 if API_HASH:
    API_HASH = API_HASH
 else:
-   print("WARNING: API HASH NOT FOUND USING Elite API ⚡")   
+   print("WARNING: API HASH NOT FOUND USING mistu API ⚡")   
    API_HASH = "7b8e2e5bb84c617a474656ad7439ea6a"
 
 if not BOT_TOKEN:
